@@ -54,7 +54,7 @@ Linguagens Favoritas: [Adicione aqui]
 Projetos em Destaque: [Adicione aqui]
 Contribuições: [Adicione aqui]
 ```
-
+```
 ## 🎓 Formação e Certificados
 
 - [Seu Curso/Certificado 1]
@@ -70,7 +70,7 @@ Descrição breve do projeto e o que ele faz.
 Descrição breve do projeto e o que ele faz.
 
 ---
-
+```
 **"Sempre aprendendo, sempre crescendo!"** 🚀
 
 ⭐ Se você gostou, considere dar uma estrela nos meus repositórios!
